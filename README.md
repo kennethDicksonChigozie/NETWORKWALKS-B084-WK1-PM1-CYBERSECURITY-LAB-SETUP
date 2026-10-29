@@ -236,10 +236,11 @@ One workaround used during this lab was:
 ```bash
 sudo nmcli connection modify "Lab-Net" ipv4.dad-timeout 0
 sudo nmcli connection down "Lab-Net"
-sudo nmcli connection up "Lab-Net"```
+sudo nmcli connection up "Lab-Net"
+```
 
 The command line above is used to test for connectivity and subsequently restart connection (see images below)
-> **Important:** Network interface and connection names may differ between systems. Students should first identify their actual connection name before running an `nmcli` command.
+**Important:** Network interface and connection names may differ between systems. Students should first identify their actual connection name before running an `nmcli` command.
 
 <img width="1917" height="1017" alt="Screenshot 2026-10-29 051752" src="https://github.com/user-attachments/assets/85a3a52a-1ce9-4321-8ed6-0a8f61b1fd50" />
 
