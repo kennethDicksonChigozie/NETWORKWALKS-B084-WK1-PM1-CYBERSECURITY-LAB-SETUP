@@ -217,7 +217,11 @@ DNS:
 8.8.8.8
 ```
 
----
+---<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/ba35e338-8634-4b7d-81e3-b56537d66d53" />
+<img width="1917" height="1012" alt="image" src="https://github.com/user-attachments/assets/b407643b-c2d4-44ae-b92d-6d76860ca1e3" />
+
+
+
 
 # 🐞 Problems Encountered & Solutions
 
