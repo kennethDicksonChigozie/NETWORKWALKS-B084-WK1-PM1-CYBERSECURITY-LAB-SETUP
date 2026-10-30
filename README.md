@@ -172,7 +172,7 @@ DNS: 8.8.8.8
 
 A consistent IP address makes it easier to document the lab and reference the Kali machine in future exercises.
 
-<img width="1917" height="1021" alt="image" src="https://github.com/user-attachments/assets/3c10d247-4d1c-4817-bfed-801dde126663" />
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/f2c1ba97-d81a-4815-a6f8-633f69fc13a4" />
 
 ---
 
