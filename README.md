@@ -328,8 +328,3 @@ LinkedIn: www.linkedin.com/in/kenneth-dickson-3868631b3
 
 
 
-A consistent IP address makes it easier to document the lab and reference the Kali machine in future exercises.
-
-![](4-screenshot-kali-network-settings.png)
-
----
