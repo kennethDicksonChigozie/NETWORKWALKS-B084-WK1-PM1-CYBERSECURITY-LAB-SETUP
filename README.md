@@ -327,18 +327,6 @@ LinkedIn: www.linkedin.com/in/kenneth-dickson-3868631b3
 **Program Name:** Cybersecurity at Networkwalks | **Week:** 01 | **Project:** Cybersecurity & Pentesting Lab Setup | **Repository:** GitHub
 
 
-## Step 5. Configure the Kali Linux Network
-
-The Kali Linux network configuration was checked and configured with a consistent IPv4 address.
-
-Example configuration:
-
-```text
-IP Address: 10.0.0.2
-Subnet Mask: 255.255.255.0
-Gateway: 10.0.0.1
-DNS: 8.8.8.8
-```
 
 A consistent IP address makes it easier to document the lab and reference the Kali machine in future exercises.
 
